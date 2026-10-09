@@ -1,9 +1,15 @@
+> Based on [adan-data/pipelineiq](https://github.com/adan-data/pipelineiq).
+> **My contribution:** added a "Channel Economics (CAC/LTV)" page with
+> editable per-channel CAC, LTV:CAC and payback analysis, drawing on my
+> experience managing AED 300K+/month ad spend across Meta, Google and TikTok.
+> CAC values in the page are placeholders to be replaced with real channel data.
+> 
 # PipelineIQ, CRM Analytics Dashboard
 
 A full-stack analytics project built on 18 months of SaaS customer data (598 customers, Jan 2022 to Jun 2023). The Streamlit dashboard surfaces churn drivers, cohort retention, survival economics, pricing elasticity, and marketing attribution. All findings are reproducible via SQL against `saas_intel.db`.
 
 ---
-
+## Original Project Demos (by adan-data)
 ## Live Demos
 
 | | Link |
