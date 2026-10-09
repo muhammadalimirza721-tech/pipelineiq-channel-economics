@@ -157,6 +157,7 @@ pipelineiq/
 | Pricing Elasticity | Log-log demand model, tier-level elasticity, optimal price ranges |
 | Marketing Attribution (MMM) | Last-click vs RidgeCV attribution, channel churn enrichment |
 | Customer Segmentation (RFM) | 5 RFM segments, MRR at risk, segment action matrix |
+| Channel Economics (CAC/LTV) | **New:** per-channel LTV:CAC and payback, with editable CAC assumptions |
 
 ---
 
