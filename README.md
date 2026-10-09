@@ -115,7 +115,7 @@ python src/11_survival_analysis.py
 
 ```
 pipelineiq/
-├── app.py                          # Streamlit dashboard (7 pages)
+├── dashboard/app.py                # Streamlit dashboard (8 pages)
 ├── saas_intel.db                   # SQLite database (built by src scripts)
 ├── requirements.txt
 │
@@ -158,7 +158,6 @@ pipelineiq/
 | Marketing Attribution (MMM) | Last-click vs RidgeCV attribution, channel churn enrichment |
 | Customer Segmentation (RFM) | 5 RFM segments, MRR at risk, segment action matrix |
 | Channel Economics (CAC/LTV) | **New:** per-channel LTV:CAC and payback, with editable CAC assumptions |
-
 ---
 
 ## Key Metrics (from actual data)
