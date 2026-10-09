@@ -10,7 +10,7 @@ A full-stack analytics project built on 18 months of SaaS customer data (598 cus
 
 ---
 ## Original Project Demos (by adan-data)
-## Live Demos
+
 
 | | Link |
 |---|---|
@@ -97,10 +97,10 @@ Beyond the business findings, the project was designed to demonstrate specific a
 ## Quick Start
 
 ```bash
-git clone https://github.com/adan-data/pipelineiq.git
-cd pipelineiq
+git clone https://github.com/muhammadalimirza721-tech/pipelineiq-channel-economics.git
+cd pipelineiq-channel-economics
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run dashboard/app.py
 ```
 
 The app runs without the database, it falls back to `clean_saas_customers.csv` automatically. To build the database:
